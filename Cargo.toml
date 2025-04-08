@@ -1,0 +1,8 @@
+[package]
+name = "my_browser"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+headless_chrome = "1.0.17"
+serde_json = "1.0.140"
